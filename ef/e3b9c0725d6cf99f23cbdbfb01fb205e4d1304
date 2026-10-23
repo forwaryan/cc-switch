@@ -1,0 +1,38 @@
+src-tauri/src/services/session_usage.rs
+  s_a944e1ef7c34e0::t_df849847eef0cf 16,1258-1259,1270-1271,1297
+  s_a944e1ef7c34e0::t_42ee9f75e87e95 1741-1745,1766-1770
+  s_ddb6b919d90ed4::t_f0f92e99765c33 1756-1757
+  s_a944e1ef7c34e0::t_2ba74d600766de 1623,1675,1681-1687,2617,2627,2672,2677
+  s_a944e1ef7c34e0::t_60384f4701056f 1693-1740,1746-1752,1760-1765,1771-1793
+  s_ddb6b919d90ed4::t_c15f6988832a79 1688-1690,1692,1753-1755,1758-1759
+src-tauri/src/proxy/usage/parser.rs
+  s_a944e1ef7c34e0::t_df849847eef0cf 53-54,59,88-89
+  s_a944e1ef7c34e0::t_2ba74d600766de 538,547
+src-tauri/src/proxy/usage/logger.rs
+  s_a944e1ef7c34e0::t_df849847eef0cf 132-133,154,163,170,173
+  s_a944e1ef7c34e0::t_2ba74d600766de 598,636-637,641,643,648,694-704
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "efe3b9c0725d6cf99f23cbdbfb01fb205e4d1304",
+  "prompts": {},
+  "sessions": {
+    "s_a944e1ef7c34e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167d0-2ff9-7ae2-b1a1-4178a884f9ce",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    },
+    "s_ddb6b919d90ed4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1699d-f002-7e91-b36b-a5cdc9750187",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
