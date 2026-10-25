@@ -1,0 +1,23 @@
+src-tauri/src/proxy/usage/logger.rs
+  s_84a956854d52f1::t_24a8157ecf3c67 132-133,154,163,170,173,598,636-637,641,643,648,694-704
+src-tauri/src/proxy/usage/parser.rs
+  s_84a956854d52f1::t_f3257654fb17fd 53-54,59,88-89,538,547
+src-tauri/src/services/session_usage.rs
+  s_84a956854d52f1::t_a268d385b6a4e5 16,1258-1259,1270-1271,1297,1623,1675,1681-1690,1692-1793,2617,2627,2672,2677
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "536d0e427ec9b18ffb3630a2cbd00338cc6437f6",
+  "prompts": {},
+  "sessions": {
+    "s_84a956854d52f1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "35a92ac5-555b-4b6a-aee1-d3481be361f4",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
