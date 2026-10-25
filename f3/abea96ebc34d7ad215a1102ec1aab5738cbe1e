@@ -1,0 +1,27 @@
+src-tauri/src/database/mod.rs
+  s_5417992f4fb78a::t_125148c6764be7 55
+src-tauri/src/database/schema.rs
+  s_5417992f4fb78a::t_125148c6764be7 653,668,688,695-697,701,703-704
+  s_5417992f4fb78a::t_52af70b570a8d7 677,3987,4040-4041,4046,4050-4052,4059-4063,4071,4075-4079,4085-4091,4099
+src-tauri/src/services/usage_stats.rs
+  s_5417992f4fb78a::t_e9ca12791cd966 864,5812-5815
+  s_5417992f4fb78a::t_dbd26ebaffb469 3488,3498,4099-4102,4108,4121,4132,4139,4142,4147,4173,4175-4178,5412,6114,6117
+  s_5417992f4fb78a::t_279590d11e36c1 734,736,851-852,899,905,954
+  s_5417992f4fb78a::t_a71ed884895b44 5816-5817
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "f3abea96ebc34d7ad215a1102ec1aab5738cbe1e",
+  "prompts": {},
+  "sessions": {
+    "s_5417992f4fb78a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e200822b-7ef6-4616-a92c-d6c0b0dcb9b7",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
