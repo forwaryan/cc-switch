@@ -1,0 +1,19 @@
+src-tauri/src/services/session_usage_codex.rs
+  s_19796a079ec871::t_f38e4cdda62038 5957-6020
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "978e1e100e1c6cd6d6e39d4e743c88c8872305fb",
+  "prompts": {},
+  "sessions": {
+    "s_19796a079ec871": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b43b2f17-856e-4d0f-8aaf-86b36a64920c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
