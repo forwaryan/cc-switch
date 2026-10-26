@@ -1,0 +1,32 @@
+src-tauri/src/services/session_usage.rs
+  s_5417992f4fb78a::t_7c432b69fc2953 1707-1710
+src-tauri/src/services/session_usage_codex.rs
+  s_5417992f4fb78a::t_b5fe53549ccc2a 5767-5864
+  s_5417992f4fb78a::t_59cce3c330fc5f 30-31,213,895-899,961,981,1260,1433,1455,1476,1606,1635,2241,2293,2314,2343,2408
+  s_5417992f4fb78a::t_d718fddbd24f28 3773-3783,3787
+  s_5417992f4fb78a::t_e91a31783c43c2 5709-5766
+src-tauri/src/services/usage_stats.rs
+  s_5417992f4fb78a::t_a96e620a81c8c6 776-871
+src-tauri/src/proxy/usage/logger.rs
+  s_5417992f4fb78a::t_d9091a4aa5ca6b 8-10,104-110,139,157,187,220-225
+  s_5417992f4fb78a::t_cf6e3831df1ad3 479-560
+  s_5417992f4fb78a::t_a8e2c5fb2fc10a 807
+  s_5417992f4fb78a::t_e923eb52ae1231 817,819,844-850,867
+  s_5417992f4fb78a::t_7c432b69fc2953 561-613,768-806,864-866
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "c9e1e2306100912d32f721a80875077259d00be5",
+  "prompts": {},
+  "sessions": {
+    "s_5417992f4fb78a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e200822b-7ef6-4616-a92c-d6c0b0dcb9b7",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
