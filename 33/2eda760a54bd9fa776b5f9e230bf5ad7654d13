@@ -1,0 +1,199 @@
+src-tauri/src/agy_config.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 266,272,299
+src-tauri/src/services/claude_account/snapshot/state.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-108
+tests/hooks/useClaudeAccountQuota.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-70
+src-tauri/src/lightweight.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 28,56,97,103-107
+  s_d4e6bc1f585ef4::t_ff4f4a8247d436 108-109
+src-tauri/src/services/claude_account/usage.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-197
+src-tauri/src/services/provider/claude_official.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-421
+src-tauri/src/services/claude_account/layout.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-215
+tests/msw/handlers.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 541-550
+src/lib/api/auth.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 7-8,28-33,51-52,140-161,172-173
+src-tauri/src/commands/misc.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 4095,4109,4322-4369,4923-4943,5088-5119
+  s_d4e6bc1f585ef4::t_5c5d01c30c65cd 5120
+src/components/providers/presentation.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 759,911-912,916-917,919-922
+src/components/settings/auth/ManagedAccountsGroup.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 62-63,82,86-87,93-94,96-97,110,128,132,188-191,239-240,295-297,309-310,362,498,517-518,601
+src/lib/query/subscription.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 2-7,12-16,278-351
+src-tauri/src/services/profile.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 23,88-93,138,240-247,444-445,449-453,477-499
+  s_d4e6bc1f585ef4::t_577bd7313304fb 500
+src-tauri/src/services/claude_account/tests.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-194
+src/components/settings/AuthCenterPanel.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 7,22,31,45-53,76-78
+src/types/subscription.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 45-55
+tests/components/AuthCenterGroups.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 146,179,186
+src/components/providers/forms/AgyOAuthSection.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 64-65
+src-tauri/src/live/patch/json.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 19-21,41-43,106-114,116
+  s_d4e6bc1f585ef4::t_d88e71285869ab 115,117-118
+src-tauri/src/services/claude_account/snapshot/tests.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-1001
+src-tauri/src/services/provider/claude_direct.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 55,59-74
+src-tauri/src/services/claude_account/identity.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-121
+src-tauri/src/services/claude_account/snapshot/recover.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-72
+src-tauri/src/lib.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 76,1189,1194,1321-1335,1504-1511,1903-1906
+tests/components/CodexOAuthSection.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 33-36,210,213,217-222
+src-tauri/src/services/mcp.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 298-301,365-370
+src/components/providers/forms/CopilotAuthSection.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 140-141
+tests/components/KimiAccountLogin.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 90,92,159,248
+src/lib/claudePlan.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-36
+src-tauri/src/commands/claude_account.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-71
+src-tauri/src/services/claude_account/login.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-567
+tests/components/ProviderCard.claudeAccount.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-156
+src/config/claudeProviderPresets.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 442-444,453-456,1259,1261-1262,1572-1573,1584-1587,2269-2270,2282
+  s_d4e6bc1f585ef4::t_88acb3b595558c 2283
+src/components/providers/ProviderCard.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 26-29,258-267,276-291,479-485,492-509,565-575
+src-tauri/src/services/claude_account/snapshot/store.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-210
+src-tauri/tests/profile_roundtrip.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 11,646-692
+  s_d4e6bc1f585ef4::t_715d286bdf6f67 693-694
+src-tauri/src/services/claude_account/shared.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-507
+tests/config/moarkProviderPresets.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 81-82,158,160,247,266
+src/components/providers/forms/ProviderForm.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 102,651-654,1969-1977,2710-2713
+  s_d4e6bc1f585ef4::t_280ac09be9461d 2714-2716
+src/components/providers/forms/CodexOAuthSection.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 165-166,466-474,476-486
+src/components/providers/forms/ClaudeOfficialSection.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-586
+tests/components/ProviderCardActions.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 119-164
+tests/config/piProviderPresets.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 103-104,111,163-167
+src-tauri/src/services/claude_account/snapshot/mod.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-197
+tests/lib/claudePlan.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-27
+src/config/openclawProviderPresets.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1061,1063,3171,3888-3890,3893-3894,3919,3921,4377-4383,4439-4445,5886-5889,5915-5916,5918,5992-5993,5995-5996,6000
+src/components/providers/ProviderCardActions.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 80-82,101-103,153-167,217
+tests/config/qianfanTokenPlanPresets.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 28,34-35,43,69,80,94-96,98,101,114-115
+src/components/settings/auth/AccountQuota.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 36,413-428
+  s_d4e6bc1f585ef4::t_0ff8b8db35e726 429-438
+src-tauri/src/services/claude_account/snapshot/store/keychain.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-199
+src-tauri/src/services/claude_account/snapshot/switch.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-382
+src/components/ClaudeAccountQuotaFooter.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-46
+tests/components/providerPresentation.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 642,651-671,673-680,706,778
+tests/config/codexChatProviderPresets.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 125
+tests/config/codexReasoningLevelPresets.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 149-150,157,160,226,302,308
+src-tauri/src/services/claude_account/cc_lock.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-195
+src-tauri/src/mode/controller.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 417-418,534,538-549
+src/config/piProviderPresets.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 2178-2181,2503-2504,2512-2516,2538-2539
+src/config/codexProviderPresets.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 743,1736,1860,1867-1868,1937,1944-1945,1987,4184-4185,4207-4208,4210
+src/config/hermesProviderPresets.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 687,1271-1272,1274-1276,2298-2299,2320,3335-3336,3338-3339
+src-tauri/src/services/claude_account/snapshot/files.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-101
+src/config/codexProviderPresets.tokenPlanTextOnly.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 30-31,34-36
+src-tauri/src/services/mod.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 4
+src-tauri/src/services/session_usage_codex.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 971,979-983,985,1519,2813-2863
+  s_d4e6bc1f585ef4::t_e0cac0ac900269 2864-2866
+tests/components/ClaudeOfficialSection.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-338
+src-tauri/src/commands/mod.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 6,48
+src-tauri/src/services/provider/mod.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 8
+tests/config/piThinkingProfiles.test.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 81
+src/i18n/locales/en.json
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 234-254,4387-4388,4898-4900,4952-4965
+src-tauri/src/services/claude_account/mod.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-751
+src/config/claudeDesktopProviderPresets.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 479-480,488-490,492-494,1262-1263,1266-1267,1482-1483,1493,1497-1499,2028-2030
+src-tauri/src/commands/settings.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 54-55,412-422
+  s_d4e6bc1f585ef4::t_9fe2e14947a8c7 423
+src-tauri/src/services/subscription.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 165,167-175,192,195-196,202-228,1587-1736,1744,1842-1913
+  s_d4e6bc1f585ef4::t_1f425be918be10 1914
+src-tauri/src/commands/auth.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 5,15,22,37-45,65-67,76,90-92,116-118,131-133,139-156,168,183,241-261,279,349-364,375,381,393,436-442,454,526-535,548,575-587,625,656-659,671,690-701
+src/components/providers/forms/hooks/useManagedAuth.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 74-75,77-79,156-161
+src-tauri/src/services/provider/claude_editor.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 364-365,370,373-376,385-403
+src/i18n/locales/ja.json
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 234-254,4387-4388,4898-4900,4952-4965
+tests/components/KimiAddProviderDialog.test.tsx
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 132,142
+src/i18n/locales/zh-TW.json
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 234-254,4388-4389,4899-4901,4953-4966
+src/lib/api/subscription.ts
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 2-6,15-20
+src-tauri/src/settings.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 427-430,654,1194-1199
+  s_d4e6bc1f585ef4::t_5d6ec52bf474f6 1200-1201
+src-tauri/tests/provider_service.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 3176-3224
+src-tauri/src/services/claude_account/snapshot/creds.rs
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 1-176
+src/i18n/locales/zh.json
+  s_d4e6bc1f585ef4::t_8fce8beb40e433 234-254,4387-4388,4898-4900,4952-4965
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "332eda760a54bd9fa776b5f9e230bf5ad7654d13",
+  "prompts": {},
+  "sessions": {
+    "s_d4e6bc1f585ef4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f35c1995-f5d0-4f59-8d15-f7f9217324a0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
