@@ -1,0 +1,345 @@
+src-tauri/src/database/schema.rs
+  s_19796a079ec871::t_c334c3a0cae92c 3810
+  s_19796a079ec871::t_7a8a1c4511e370 4028,4031-4056,4066-4067,4080-4081,4086-4087,4092-4126,4130-4142,4152-4154,4162-4166,4234,4237,4247,4249,4251,4263-4264
+  s_19796a079ec871::t_70382a69e8f9e9 667-678
+  s_19796a079ec871::t_e8e51b80acf9fb 4029-4030,4057-4065,4068-4079,4082-4085,4088-4091,4127-4129,4143-4151,4155-4161
+  s_19796a079ec871::t_8a83462cc6e1bc 73,108,647-656,4235-4236,4238-4246,4248,4250,4252-4262,4265
+.github/ISSUE_TEMPLATE/bug_report.yml
+  s_19796a079ec871::t_47a0e182015a23 21-29
+.github/ISSUE_TEMPLATE/doc_issue.yml
+  s_19796a079ec871::t_a99e5346847b58 17-25
+.github/ISSUE_TEMPLATE/feature_request.yml
+  s_19796a079ec871::t_d4533796db9888 21-29
+.github/ISSUE_TEMPLATE/question.yml
+  s_19796a079ec871::t_e0d7913de4110d 21-29
+.github/pull_request_template.md
+  s_19796a079ec871::t_528a9d2f74f77b 1-5
+.github/workflows/schema-version.yml
+  s_19796a079ec871::t_449166d6f3eec9 1-46
+CHANGELOG.md
+  s_19796a079ec871::t_e49827390c8532 8-53
+CONTRIBUTING.md
+  s_19796a079ec871::t_1c3e2bdc7964db 190,223,449,482
+README.md
+  s_19796a079ec871::t_918560deeeb37c 116-122
+README_DE.md
+  s_19796a079ec871::t_b129a1da7a7bf2 116-122
+README_JA.md
+  s_19796a079ec871::t_356b0fb34f0473 116-122
+README_ZH.md
+  s_19796a079ec871::t_0251cf728a55c0 116-122
+docs/deepseek-harness-integration-zh.md
+  s_19796a079ec871::t_004327a89d60af 1-84
+docs/deepseek-harness-pr8771-compatibility.md
+  s_19796a079ec871::t_013370b622fcb4 1-30
+docs/guides/claude-official-accounts-guide-zh.md
+  s_19796a079ec871::t_83fb6b060b7ddd 1-131
+docs/images/claude-official-accounts/prompts/01-cover-claude-subscriptions.md
+  s_19796a079ec871::t_d4702de6cb42dd 1-44
+docs/release-notes/v4.0.21-en.md
+  s_19796a079ec871::t_51ad5cde7200a9 1-91
+docs/release-notes/v4.0.21-ja.md
+  s_19796a079ec871::t_757ab56b979f77 1-91
+docs/release-notes/v4.0.21-zh.md
+  s_19796a079ec871::t_effcef9a4d2762 1-91
+docs/user-manual/en/2-providers/2.1-add.md
+  s_19796a079ec871::t_f502eaefe54440 414-421
+docs/user-manual/ja/2-providers/2.1-add.md
+  s_19796a079ec871::t_91678f0f2cdbf0 414-421
+docs/user-manual/zh/2-providers/2.1-add.md
+  s_19796a079ec871::t_31017369ac0dc8 414,416,420
+package.json
+  s_19796a079ec871::t_384d09697659f0 3
+src-tauri/Cargo.lock
+  s_19796a079ec871::t_54c0bbbacd568f 761
+src-tauri/Cargo.toml
+  s_19796a079ec871::t_a75b6b021b9119 3
+src-tauri/src/app_config.rs
+  s_19796a079ec871::t_a892f88ac7f37d 15-16,49,69,98-100,129,144-145,178,198,227-229,258,483,502,522,555,580,585-586,626-631,646-651,978-983,1027-1032
+src-tauri/src/commands/claude_account.rs
+  s_19796a079ec871::t_9eda2c5af5f275 50-51
+src-tauri/src/commands/codex_oauth.rs
+  s_19796a079ec871::t_c5d39d6f4d74d9 8,63-67,91-99
+src-tauri/src/commands/config.rs
+  s_19796a079ec871::t_ac577a4dee2c62 141-147,214,241
+src-tauri/src/commands/misc.rs
+  s_19796a079ec871::t_cf61db1683488e 173,175,632,890-895,899,910-915,923,927-928,1321,2259-2297,3306-3307,3319-3325,3395,3690-3696,3944-3952,3974,3981-3990,4902-4914,7291-7293,7301,7314,7318-7342,8083,8108-8110,8219-8222,8569,8741-8746,8761-8766,8778-8783,8872,8950-8986,9922-9927,9978,9983,10551-10587
+src-tauri/src/commands/provider.rs
+  s_19796a079ec871::t_2b60ce053e8d93 933-937,939,945,947-948,950,952-954
+src-tauri/src/commands/tool_uninstall.rs
+  s_19796a079ec871::t_00a43e6ab1d614 879-927
+src-tauri/src/database/dao/mcp.rs
+  s_19796a079ec871::t_c77293cf596e0b 12,50,102,135-136,159
+src-tauri/src/database/dao/providers.rs
+  s_19796a079ec871::t_c922b72eedf867 266-286
+src-tauri/src/database/dao/skills.rs
+  s_19796a079ec871::t_f5182d5aed6993 26,54,78,105,127-128,150,219-220
+src-tauri/src/database/tests.rs
+  s_19796a079ec871::t_b4f5e656e2832e 1491-1533
+src-tauri/src/deeplink/mcp.rs
+  s_19796a079ec871::t_c43404b0d2c282 165
+src-tauri/src/deeplink/provider.rs
+  s_19796a079ec871::t_f7ee3d734827a4 343-347
+src-tauri/src/dsh_config.rs
+  s_19796a079ec871::t_0c1e260f5efca1 1-1131
+src-tauri/src/gemini_config.rs
+  s_19796a079ec871::t_cee1b160c6d326 37-39,365-380
+src-tauri/src/kimi_session.rs
+  s_19796a079ec871::t_40f3f91b448665 11-13,149
+src-tauri/src/lib.rs
+  s_19796a079ec871::t_940b77fbda6ba4 18,51-52,92,1212,1228-1229
+src-tauri/src/mcp/claude.rs
+  s_19796a079ec871::t_ff4204017a0faa 100
+src-tauri/src/mcp/codex.rs
+  s_19796a079ec871::t_f0d65181488725 260,349,474,624-641,1060-1097
+src-tauri/src/mcp/dsh.rs
+  s_19796a079ec871::t_a69f3db9d0b303 1-71
+src-tauri/src/mcp/gemini.rs
+  s_19796a079ec871::t_dae077fff2a0ea 96
+src-tauri/src/mcp/hermes.rs
+  s_19796a079ec871::t_288a5c936d1316 324
+src-tauri/src/mcp/mod.rs
+  s_19796a079ec871::t_30b0bebdcfe601 18,24
+src-tauri/src/mcp/opencode.rs
+  s_19796a079ec871::t_fb746e6ebc38c3 268
+src-tauri/src/mode/controller.rs
+  s_19796a079ec871::t_e09be27dec8e91 1340-1341,1343-1344,1363-1389,8068-8211
+src-tauri/src/omp_config.rs
+  s_19796a079ec871::t_7838b7badbd567 744-754,757-762,764-765,774-778,781-782,789,792-794,798-804,806,1164-1192
+src-tauri/src/prompt_files.rs
+  s_19796a079ec871::t_1031fc1230b3e1 40,56-61
+src-tauri/src/provider.rs
+  s_19796a079ec871::t_053d6970aab44c 216-219
+src-tauri/src/proxy/forwarder.rs
+  s_19796a079ec871::t_088796eb365d0d 7521-7522,7564
+src-tauri/src/proxy/handlers.rs
+  s_19796a079ec871::t_8b0a674723b5f9 778
+src-tauri/src/proxy/mod.rs
+  s_19796a079ec871::t_2ca693397e1502 39-41
+src-tauri/src/proxy/opaque_state_rectifier.rs
+  s_19796a079ec871::t_df380e18ce0c85 52-54,104-106,122,249-256,333-342,392,397,402,817-867
+src-tauri/src/proxy/providers/codex_oauth_auth.rs
+  s_19796a079ec871::t_88e09572c228a1 770-774,2136-2148,3534-3560
+src-tauri/src/proxy/providers/mod.rs
+  s_19796a079ec871::t_9ee79686729bfb 218-223,279-284
+src-tauri/src/proxy/providers/transform.rs
+  s_19796a079ec871::t_c6ff10f4669bfb 16,597-637,640,1509-1574
+src-tauri/src/proxy/providers/transform_codex_chat.rs
+  s_19796a079ec871::t_e2413f4ed1e8b7 14,1933,4007-4033
+src-tauri/src/proxy/tests_issue_7271.rs
+  s_19796a079ec871::t_2c724cee74ce6c 1-342
+src-tauri/src/proxy/usage/parser.rs
+  s_19796a079ec871::t_3b0b1722bec564 9,319-320,374-376,1073-1099
+src-tauri/src/services/claude_account/snapshot/mod.rs
+  s_19796a079ec871::t_efca09dc054b96 97-101,103-105
+src-tauri/src/services/coding_plan.rs
+  s_19796a079ec871::t_46ff330898b408 24-26,49-51,2349-2360,2370
+src-tauri/src/services/mcp.rs
+  s_19796a079ec871::t_55e0853060ed6e 63-73,79,82,148-154,157,159,238-243,258-259,300-305,367,385-390,425,536-541,851,860
+src-tauri/src/services/provider/live.rs
+  s_19796a079ec871::t_cfa81387ca9eb1 33-35,312,392,710-712,866,1024,1152
+src-tauri/src/services/provider/mod.rs
+  s_19796a079ec871::t_5aa2bb67b7b311 5470-5473,5545-5560,5661,5671-5673,6382,6527-6531,6597,6665-6673,6727,6834-6844,7024,7288-7293,7311-7316,7899-7905,8080-8082,8293-8306
+src-tauri/src/services/session_usage_kimi.rs
+  s_19796a079ec871::t_cc002a85aaf71b 4,197,202,216,224-230,259-260,262-264,266,269,272,283-293,314,316,501-562
+src-tauri/src/services/skill.rs
+  s_19796a079ec871::t_e885754f3cc3a1 663,715,1079,1168-1169,1647-1648,1664,1672-1677,1705-1708,1710-1736,1744-1749,1980,2209,2422,2466-2471,2578-2583,2760-2765,2968-2973,3045-3050,4129-4132,5875,6122,6152,6189,6238,6650,6899,6907,6909,6917-6920,7312
+src-tauri/src/session_manager/content.rs
+  s_19796a079ec871::t_859ca72bf7cd95 326-338,674
+src-tauri/src/session_manager/mod.rs
+  s_19796a079ec871::t_024887349e7be2 17,96,133,181-185,260
+src-tauri/src/session_manager/providers/dsh.rs
+  s_19796a079ec871::t_1f5b1b0a2bfb09 1-399
+src-tauri/src/session_manager/providers/mod.rs
+  s_19796a079ec871::t_62a2190a201bdd 19-20
+src-tauri/src/settings.rs
+  s_19796a079ec871::t_30195bb5a69535 61-62,80,102,1386,1406
+src-tauri/src/tray.rs
+  s_19796a079ec871::t_fe0190aafb0781 21,60,2412-2413,2645-2682
+src-tauri/src/tray_compat.rs
+  s_19796a079ec871::t_f0d29a0b724c31 1-184
+src-tauri/tauri.conf.json
+  s_19796a079ec871::t_83ca28d43ced51 4
+src-tauri/tests/dsh_commands.rs
+  s_19796a079ec871::t_c29ab72480ddf1 1-203
+src-tauri/tests/import_export_sync.rs
+  s_19796a079ec871::t_95a9653782afc1 429,565
+src-tauri/tests/mcp_commands.rs
+  s_19796a079ec871::t_efa10a5e7c9f8e 764,915,987,1039,1080,1267,1329,1391,1454,1540,1686,1715,1764
+src-tauri/tests/provider_commands.rs
+  s_19796a079ec871::t_2fb92ce6fc3ceb 548
+src-tauri/tests/provider_service.rs
+  s_19796a079ec871::t_1d7c97d5b9eccf 4-6,174,1588,1655,2288-2322
+src/App.tsx
+  s_19796a079ec871::t_2a5989a3e8e8dd 24,453-468,785,1016,1185-1189,1393,1561
+src/components/apps/toolUninstallCommands.ts
+  s_19796a079ec871::t_b8dad5e01f32b9 26
+src/components/apps/useToolManagement.ts
+  s_19796a079ec871::t_ee3474770f686f 52,146-155,163,165,174-175,190,192,201-202,225,247
+src/components/mcp/McpFormModal.tsx
+  s_19796a079ec871::t_248107d565ffc2 15,45,59-66,188-203,1230-1251
+src/components/mcp/UnifiedMcpPanel.tsx
+  s_19796a079ec871::t_af255c4ef48ad1 92,102
+src/components/providers/AddProviderDialog.tsx
+  s_19796a079ec871::t_6adac9eed39124 74,299
+src/components/providers/EditProviderDialog.tsx
+  s_19796a079ec871::t_8495857f7ff567 200
+src/components/providers/OpenTerminalDialog.tsx
+  s_19796a079ec871::t_101dfaf66a2a6c 77-79,97-101
+src/components/providers/ProviderCard.tsx
+  s_19796a079ec871::t_0fa321bbceb4f0 41,48,650,666
+src/components/providers/ProviderCardActions.tsx
+  s_19796a079ec871::t_4a67c3a86ccd12 77-78,97,157-163
+src/components/providers/ProviderEmptyState.tsx
+  s_19796a079ec871::t_4b758c27f4e683 27-31
+src/components/providers/ProviderList.tsx
+  s_19796a079ec871::t_dfac65c61d5eb3 175,460-463
+src/components/providers/forms/ClaudeDesktopProviderForm.tsx
+  s_19796a079ec871::t_ccf549e856a3e0 388-393,884-889,897,1134,1140-1147,1177
+src/components/providers/forms/ClaudeOfficialSection.tsx
+  s_19796a079ec871::t_c6ab2093b0a3b0 14,48-50,52,54-55,163,255-256,258,260-268,281-288,343,348-349,353-354,359,362,369-382,385-401,403-416,420,422-438,440-453,455-484,486-487,489,491-499,535,578-584
+src/components/providers/forms/CodexFormFields.tsx
+  s_19796a079ec871::t_34891bb05d200c 10-27,65,299-371,1174-1203,1692,1716-1724,1726-1828,1830-1831
+src/components/providers/forms/EndpointSpeedTest.tsx
+  s_19796a079ec871::t_e6128dd8164dcc 24
+src/components/providers/forms/McodeProviderForm.tsx
+  s_19796a079ec871::t_edd3e09598cef8 15,69,80-84,98,109,134-135,150,211
+src/components/providers/forms/ProviderForm.tsx
+  s_19796a079ec871::t_ca7e2a40e0b950 333-334,2715-2719
+src/components/sessions/SessionItem.tsx
+  s_19796a079ec871::t_2bf412ee489957 109-115
+src/components/sessions/reader/SessionReaderHeader.tsx
+  s_19796a079ec871::t_8c68b64db83dc4 353-367
+src/components/sessions/utils.ts
+  s_19796a079ec871::t_d0678d78d8aa59 21,43,52
+src/components/settings/DirectorySettings.tsx
+  s_19796a079ec871::t_42915fd7f2403c 13
+src/components/settings/auth/AccountQuota.tsx
+  s_19796a079ec871::t_9adc84d88a51d3 65,67-68,85-88,97,139-142,201-205,232-233
+src/components/settings/auth/ManagedAccountsGroup.tsx
+  s_19796a079ec871::t_0b888ebf870ae4 81-82,127,149-150,177,183,221,252-255,265-269,312,508-509,524,586-587,626,630
+src/components/shell/AppGlyph.tsx
+  s_19796a079ec871::t_dbda3e8dddd2de 19,36
+src/components/skills/SkillImportDialog.tsx
+  s_19796a079ec871::t_af84ae2af579a7 107
+src/components/usage/RequestLogTable.tsx
+  s_19796a079ec871::t_23ea6dea0d07c9 125
+src/components/usage/UsageTrendChart.tsx
+  s_19796a079ec871::t_c3f5d2a953b8ef 1-2,258-279,352,395,401-449,451-462,464-465
+src/config/appConfig.tsx
+  s_19796a079ec871::t_1372465e6bf802 32,49,88,140,146,192,291-297
+src/config/claudeDesktopProviderPresets.ts
+  s_19796a079ec871::t_a7cef1e320302a 1280-1284,1298,2097-2115
+src/config/claudeProviderPresets.ts
+  s_19796a079ec871::t_9ff62bd330acf5 2346-2373
+src/config/codexProviderPresets.ts
+  s_19796a079ec871::t_de868d50cdaf7c 4062-4178
+src/config/codingPlanProviders.test.ts
+  s_19796a079ec871::t_b253ccba684217 22-29,40-42
+src/config/codingPlanProviders.ts
+  s_19796a079ec871::t_627eca744a19e3 74-77,81
+src/config/dshProviderPresets.test.ts
+  s_19796a079ec871::t_b3a6f5dd3cb5ba 1-160
+src/config/dshProviderPresets.ts
+  s_19796a079ec871::t_1642eba2044e18 1-120
+src/config/hermesProviderPresets.ts
+  s_19796a079ec871::t_1fdf624dd9e297 1010-1045,3299-3371
+src/config/kimiProviderPresets.test.ts
+  s_19796a079ec871::t_8fee331ac8a3a5 110-118
+src/config/openclawProviderPresets.ts
+  s_19796a079ec871::t_6c9427b40767d1 1650-1721,5848-5974
+src/config/opencodeProviderPresets.ts
+  s_19796a079ec871::t_e269ebcaae8996 1468-1513,3922-4021
+src/config/piModelCatalog.ts
+  s_19796a079ec871::t_a4e55d1755dcd0 330-338
+src/config/piProviderPresets.ts
+  s_19796a079ec871::t_4e38fc1fc42919 129-144,185-200,847-868,2480-2531
+src/hooks/useDirectorySettings.ts
+  s_19796a079ec871::t_6cfc7ae280d2d3 10
+src/hooks/useDragSort.ts
+  s_19796a079ec871::t_e3a346ebdbda4d 107-108
+src/i18n/locales/en.json
+  s_19796a079ec871::t_6b789369aad418 182-183,237-239,241,243-244,248,1652,4692-4695,4906-4908,4973-4974,5071-5077
+src/i18n/locales/ja.json
+  s_19796a079ec871::t_f79fce2e95306f 182-183,237-239,241,243-244,248,1652,4692-4695,4906-4908,4973-4974,5071-5077
+src/i18n/locales/tr.json
+  s_19796a079ec871::t_b3a5cf4d21ef74 182-183,1643,1831-1833,1872-1877,4215-4218,4258,4959-4961,5003-5012,5024-5025,5027-5033
+src/i18n/locales/zh-TW.json
+  s_19796a079ec871::t_6ef4f6e7b74eea 182-183,237-239,241,243-244,248,1653,4693-4696,4907-4909,4974-4975,5072-5078
+src/i18n/locales/zh.json
+  s_19796a079ec871::t_5a94e532933ece 182-183,237-239,241,243-244,248,1652,4692-4695,4906-4908,4973-4974,5071-5077
+src/icons/extracted/index.ts
+  s_19796a079ec871::t_635dae84049a33 157
+src/icons/extracted/metadata.ts
+  s_19796a079ec871::t_ea6f61ca2925c4 1157-1163
+src/index.css
+  s_19796a079ec871::t_b230f932a6fa51 595-615
+src/lib/api/auth.ts
+  s_19796a079ec871::t_47860a3cde008b 152-153
+src/lib/api/skills.ts
+  s_19796a079ec871::t_683ab207501d6f 17,34
+src/lib/api/types.ts
+  s_19796a079ec871::t_f532cc44caf081 13
+src/lib/query/mutations.ts
+  s_19796a079ec871::t_032ff86fcd99d6 344-349
+src/lib/query/prompts.ts
+  s_19796a079ec871::t_230b10f7511782 25
+src/types.ts
+  s_19796a079ec871::t_74a5c06a9ae210 319,775
+src/types/usage.ts
+  s_19796a079ec871::t_b8d1d0c4948fe6 233,247
+src/utils/providerCapabilities.test.ts
+  s_19796a079ec871::t_0329986f8c3e40 8,440-471
+src/utils/providerCapabilities.ts
+  s_19796a079ec871::t_8fc4ee5a0d066d 119-139
+src/whats-new/4.0.21.json
+  s_19796a079ec871::t_1b1d48549389d0 1-33
+tests/components/ClaudeDesktopProviderForm.test.tsx
+  s_19796a079ec871::t_2cf5ad0a67b227 198-366
+tests/components/ClaudeOfficialSection.test.tsx
+  s_19796a079ec871::t_11a8cf629a3356 261,265-303,315-349
+tests/components/CodexFormFields.catalogReorder.test.tsx
+  s_19796a079ec871::t_09b651fdf990da 1-171
+tests/components/McpFormModal.test.tsx
+  s_19796a079ec871::t_c60ffa859640e0 309-351
+tests/components/OpenTerminalDialog.test.tsx
+  s_19796a079ec871::t_da7b2c5a5cfd78 200-219
+tests/components/PiProviderForm.test.tsx
+  s_19796a079ec871::t_2001e30ea6e741 1008-1009,1021-1022
+tests/components/ProviderPresetSelector.test.tsx
+  s_19796a079ec871::t_135ffac80042c6 243,247
+tests/components/SessionManagerPage.test.tsx
+  s_19796a079ec871::t_cca18254f85589 291-292,324
+tests/components/UnifiedSkillsPanel.test.tsx
+  s_19796a079ec871::t_d14788ee18e8bb 901
+tests/components/UsageDashboard.smoke.test.tsx
+  s_19796a079ec871::t_ec985ee1c0b85e 264-268
+tests/components/UsageTrendChart.render.test.tsx
+  s_19796a079ec871::t_03718ab875cdc0 15-31
+tests/config/appConfig.test.tsx
+  s_19796a079ec871::t_a2a91d9c7e404c 12-23
+tests/config/claudeDesktopProviderPresets.test.ts
+  s_19796a079ec871::t_bf98b9e96056fd 1-12
+tests/config/teamorouterClaudePresets.test.ts
+  s_19796a079ec871::t_823b3e1a543052 1-99
+tests/hooks/useSwitchProviderResult.test.tsx
+  s_19796a079ec871::t_288ed1ec27eec3 40-68
+tests/msw/state.ts
+  s_19796a079ec871::t_8596438c2a4fb6 79,96,215,346
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "df92a45c63cb9e72512b927f468b38d3a94c108f",
+  "prompts": {},
+  "sessions": {
+    "s_19796a079ec871": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b43b2f17-856e-4d0f-8aaf-86b36a64920c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "lixiongxiong.6 <2549102420@qq.com>"
+    }
+  }
+}
